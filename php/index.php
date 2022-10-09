@@ -1,5 +1,5 @@
 
-<?php include ('..//header.php') ?>
+<?php include ('header.php') ?>
 
   <div class="container">
 
@@ -42,55 +42,17 @@
         <h6 class="section">Ejercicios y herramientas imprimibles, 8 módulos con 44 videotutoriales, talleres y mucho
           más...</h6>
         <a href="https://go.hotmart.com/L75126133N" class="waves-effect waves-light btn-small">Comprar programa</a>
-
-   
-
       </div>
     </div>
   </div>
   <!--End Banner-->
 
-  <h5 class="section center-align">Preguntas frecuentes</h5>
 
-<div class="row">
-  <div class="container">
-    <div class="col s12 m12 l12 ">
-      <ul class="collapsible section">
-        <li>
-          <div class="collapsible-header"><i class="material-icons">arrow_drop_down</i>¿Tengo garantía de
-            devolución?
-          </div>
-          <div class="collapsible-body"><span>Dispones de una garantía de 15 días desde que comienzas el
-              programa.</span></div>
-        </li>
-        <li>
-          <div class="collapsible-header"><i class="material-icons">arrow_drop_down</i>¿De no estar
-            presente en la videoconferencia?</div>
-          <div class="collapsible-body"><span>Grabaremos las sesiones y te enviaremos por email aquella que te
-              perdiste para que no se te escape ningún detalle.</span></div>
-        </li>
-        <li>
-          <div class="collapsible-header"><i class="material-icons">arrow_drop_down</i>¿Porqué debo necesitar
-            ayuda?
-          </div>
-          <div class="collapsible-body"><span>La adolescencia es la última oportunidad que tenemos las madres
-              para
-              ayudar a nuestros hijos a construir una autoestima sana, hacerse autónomos y consolidar los
-              valores que
-              deseamos transmitir en ellos. A pesar de lo que podamos creer, los jóvenes quieren saber lo que
-              nosotras
-              pensamos. Estar preparadas para iniciar una conversación sobre cualquier asunto que les preocupe
-              favorecerá su toma de decisiones.</span>
-            </div>
-        </li>
-      </ul>
-    </div>
-  </div>
 </div>
 
   <!--Other courses-->
 
-  <h4 class="center-align section">Cursos más solicitados</h4>
+  <h4 class="center-align  section">Cursos más solicitados</h4>
 
   <div class="container">
     <div class="row">
@@ -158,7 +120,44 @@
 
   <!--End Other courses-->
 
-<?php include ('..//footer.php') ?>
+  <h5 class="section center-align">Preguntas frecuentes</h5>
+
+<div class="row">
+  <div class="container">
+    <div class="col s12 m12 l12 ">
+      <ul class="collapsible section">
+        <li>
+          <div class="collapsible-header"><i class="material-icons">arrow_drop_down</i>¿Tengo garantía de
+            devolución?
+          </div>
+          <div class="collapsible-body"><span>Dispones de una garantía de 15 días desde que comienzas el
+              programa.</span></div>
+        </li>
+        <li>
+          <div class="collapsible-header"><i class="material-icons">arrow_drop_down</i>¿De no estar
+            presente en la videoconferencia?</div>
+          <div class="collapsible-body"><span>Grabaremos las sesiones y te enviaremos por email aquella que te
+              perdiste para que no se te escape ningún detalle.</span></div>
+        </li>
+        <li>
+          <div class="collapsible-header"><i class="material-icons">arrow_drop_down</i>¿Porqué debo necesitar
+            ayuda?
+          </div>
+          <div class="collapsible-body"><span>La adolescencia es la última oportunidad que tenemos las madres
+              para
+              ayudar a nuestros hijos a construir una autoestima sana, hacerse autónomos y consolidar los
+              valores que
+              deseamos transmitir en ellos. A pesar de lo que podamos creer, los jóvenes quieren saber lo que
+              nosotras
+              pensamos. Estar preparadas para iniciar una conversación sobre cualquier asunto que les preocupe
+              favorecerá su toma de decisiones.</span>
+            </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+<?php include ('footer.php') ?>
 
 
 
