@@ -1,6 +1,6 @@
-<div class="container">
-    <div class="row">
-      <p class="col s12 m12 l12  flow-text">En este sitio web encontraras programas de formacion y material de aporte que te ayudaran a resolver toda situacion conflictiva y espiritual.
+<div class="container section">
+    <div class="row ">
+      <p class="col s12 m12 l12  flow-text ">En este sitio web encontraras programas de formacion y material de aporte que te ayudaran a resolver toda situacion conflictiva y espiritual.
 
         <a class="btn-floating btn-large waves-effect waves-teal"><i class="material-icons">add</i></a>
       </p>

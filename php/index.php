@@ -54,7 +54,7 @@
 
   <h4 class="center-align  section">Cursos más solicitados</h4>
 
-  <div class="container">
+  <div class="container section">
     <div class="row">
       <div class="col s12 m6 l4">
         <div class="card">
@@ -120,42 +120,7 @@
 
   <!--End Other courses-->
 
-  <h5 class="section center-align">Preguntas frecuentes</h5>
 
-<div class="row">
-  <div class="container">
-    <div class="col s12 m12 l12 ">
-      <ul class="collapsible section">
-        <li>
-          <div class="collapsible-header"><i class="material-icons">arrow_drop_down</i>¿Tengo garantía de
-            devolución?
-          </div>
-          <div class="collapsible-body"><span>Dispones de una garantía de 15 días desde que comienzas el
-              programa.</span></div>
-        </li>
-        <li>
-          <div class="collapsible-header"><i class="material-icons">arrow_drop_down</i>¿De no estar
-            presente en la videoconferencia?</div>
-          <div class="collapsible-body"><span>Grabaremos las sesiones y te enviaremos por email aquella que te
-              perdiste para que no se te escape ningún detalle.</span></div>
-        </li>
-        <li>
-          <div class="collapsible-header"><i class="material-icons">arrow_drop_down</i>¿Porqué debo necesitar
-            ayuda?
-          </div>
-          <div class="collapsible-body"><span>La adolescencia es la última oportunidad que tenemos las madres
-              para
-              ayudar a nuestros hijos a construir una autoestima sana, hacerse autónomos y consolidar los
-              valores que
-              deseamos transmitir en ellos. A pesar de lo que podamos creer, los jóvenes quieren saber lo que
-              nosotras
-              pensamos. Estar preparadas para iniciar una conversación sobre cualquier asunto que les preocupe
-              favorecerá su toma de decisiones.</span>
-            </div>
-        </li>
-      </ul>
-    </div>
-  </div>
 
 <?php include ('footer.php') ?>
 

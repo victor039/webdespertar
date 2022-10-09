@@ -5,11 +5,8 @@
     display:flex;
     justify-content: center;
     align-items: center;
-
-
-}
-
-.footer .copyright{
-    color:#fff;
+    margin-top:40px;
     
 }
+
+.footer .copyright{color:#fff;  }
