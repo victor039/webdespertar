@@ -33,16 +33,14 @@
           <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li><a href="..//php/index.php">Inicio</a></li>
             <li><a href="..//views/programas.php">Programas</a></li>
-            <li><a href="#">Blog</a></li>
-            <li><a href="#">Contacto</a></li>
+            <li><a href="..//views/contacto.php">Contacto</a></li>
           </ul>
         </div>
         <!--Mobile Responsive-->
         <ul class="sidenav" id="mobile-demo">
-          <li><a href="#">Inicio</a></li>
-          <li><a href="#">Programas</a></li>
-          <li><a href="#">Blog</a></li>
-          <li><a href="#">Contacto</a></li>
+            <li><a href="..//php/index.php">Inicio</a></li>
+            <li><a href="..//views/programas.php">Programas</a></li>
+            <li><a href="..//views/contacto.php">Contacto</a></li>
         </ul>
 
       </div>
