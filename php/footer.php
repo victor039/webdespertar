@@ -9,7 +9,7 @@
 
   <footer class="footer">
     <p class="copyright">
-      www.despertar.com Todos los derechos reservados.&copy 2022
+    &copy 2022 www.despertar.com Todos los derechos reservados.
     </p>
   </footer>
 
