@@ -52,18 +52,4 @@
 </div><!--Row-->
 </div><!--Main container-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <?php  include('..//php/footer.php') ?>
